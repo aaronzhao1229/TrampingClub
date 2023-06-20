@@ -18,3 +18,7 @@ const checkJwt = jwt({
 })
 
 module.exports = { checkJwt }
+
+
+
+//need to change setting etc above 
